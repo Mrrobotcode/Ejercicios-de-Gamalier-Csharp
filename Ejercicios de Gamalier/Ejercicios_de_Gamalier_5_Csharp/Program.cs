@@ -42,7 +42,7 @@ namespace Ejercicios_de_Gamalier_5_Csharp
                         Console.WriteLine("");
 
                         importe = cantidad_Articulo * precio_Articulo;
-                        Console.WriteLine($"El importe del articulo es de: {importe + "$"}");
+                        Console.WriteLine("El importe del articulo es de: " + importe + "$");
                         Console.ReadLine();
                         Console.Clear();
                         esValido = true;

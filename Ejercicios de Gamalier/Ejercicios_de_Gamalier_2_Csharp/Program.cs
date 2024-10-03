@@ -10,8 +10,8 @@ namespace Ejercicios_de_Gamalier_2_Csharp
     Crear un programa que permita calcular 
     el sueldo neto de un empleado, 
     partiendo del pago por hora y las horas 
-    trabajadas, aplicar un descuento de AFP 
-    que es 2.87% y SFS que es el 
+    trabajadas, aplicar un descuento de AFP (Administradoras de Fondos de Pensiones) 
+    que es 2.87% y SFS (Seguro Familiar de Salud) que es el 
     3.04%, sumar los descuentos y luego 
     debe restarlos del sueldo bruto
     */
@@ -55,9 +55,9 @@ namespace Ejercicios_de_Gamalier_2_Csharp
                 descuento = sueldo_Bruto * ((AFP + SFS) / 100);
                 sueldo_Neto = sueldo_Bruto - descuento;
 
-                Console.WriteLine($"Tu sueldo bruto es de: {sueldo_Bruto + "$"}");
-                Console.WriteLine($"Tu descuento es de: {descuento + "$"}");
-                Console.WriteLine($"Tu sueldo neto es de: {sueldo_Neto + "$"}");
+                Console.WriteLine("Tu sueldo bruto es de: " + sueldo_Bruto + "$");
+                Console.WriteLine("Tu descuento es de: " + descuento + "$");
+                Console.WriteLine("Tu sueldo neto es de: " + sueldo_Neto + "$");
                 Console.ReadLine();
                 Console.Clear();
               

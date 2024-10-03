@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_11_Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5318EBFF-DFBE-42D9-B294-AD88CADD9040}|..\\Ejercicios_de_Gamalier_16_Csharp\\Ejercicios_de_Gamalier_16_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier\\ejercicios_de_gamalier_16_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{569F3C4C-44FF-4E7B-9666-275D340860AB}|..\\Ejercicios_de_Gamalier_15_Csharp\\Ejercicios_de_Gamalier_15_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier\\ejercicios_de_gamalier_15_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73DB43F6-B441-44EA-A893-00FEE12837C7}|..\\Ejercicios_de_Gamalier_14_Csharp\\Ejercicios_de_Gamalier_14_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier\\ejercicios_de_gamalier_14_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9288E3F-7219-42AF-88E8-46C4006807CC}|..\\Ejercicios_de_Gamalier_13_Csharp\\Ejercicios_de_Gamalier_13_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier\\ejercicios_de_gamalier_13_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA6E300A-8273-4B96-BED8-2BBA1B558B4E}|Ejercicios_de_Gamalier_11_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier\\ejercicios_de_gamalier_11_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA6E300A-8273-4B96-BED8-2BBA1B558B4E}|Ejercicios_de_Gamalier_11_Csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2734C4D3-08E4-4A5E-9E3F-035486A35E91}|..\\Ejercicios_de_Gamalier_12_Csharp\\Ejercicios_de_Gamalier_12_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier\\ejercicios_de_gamalier_12_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_16_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_16_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_16_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_16_Csharp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:44:13.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_15_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_15_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_15_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_15_Csharp\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwBAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:36:45.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_14_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_14_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_14_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_14_Csharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:30:28.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_13_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_13_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_13_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_13_Csharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:15:37.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_12_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_12_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_12_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_12_Csharp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:09:22.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_11_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_11_Csharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T13:50:22.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

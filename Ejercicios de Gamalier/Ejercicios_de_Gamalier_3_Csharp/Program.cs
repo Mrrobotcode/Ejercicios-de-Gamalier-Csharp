@@ -71,7 +71,7 @@ namespace Ejercicios_de_Gamalier_3_Csharp
                     case 1:
                         contador_Sumar++;
                         resultado = (valor1 + valor2) + valor3;
-                        Console.WriteLine($"El resultado de tu suma es: {resultado}");
+                        Console.WriteLine("El resultado de tu suma es: " + resultado);
                         Console.ReadLine();
                         Console.Clear();
                         break;
@@ -79,7 +79,7 @@ namespace Ejercicios_de_Gamalier_3_Csharp
                     case 2:
                         contador_Restar++;
                         resultado = (valor1 - valor2) - valor3;
-                        Console.WriteLine($"El resultado de tu resta es: {resultado}");
+                        Console.WriteLine("El resultado de tu restar es: " + resultado);
                         Console.ReadLine();
                         Console.Clear();
                         break;
@@ -87,7 +87,7 @@ namespace Ejercicios_de_Gamalier_3_Csharp
                     case 3:
                         contador_Multi++;
                         resultado = (valor1 * valor2) * valor3;
-                        Console.WriteLine($"El resultado de tu multiplicacion es: {resultado}");
+                        Console.WriteLine("El resultado de tu multiplicacion es: " + resultado);
                         Console.ReadLine();
                         Console.Clear();
                         break;
@@ -104,7 +104,7 @@ namespace Ejercicios_de_Gamalier_3_Csharp
                         {
                             contador_Division++;
                             resultado = (valor1 / valor2) / valor3;
-                            Console.WriteLine($"El resultado de tu division es: {resultado}");
+                            Console.WriteLine("El resultado de tu division es: " + resultado);
                             Console.ReadLine();
                             Console.Clear();
                             break;

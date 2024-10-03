@@ -64,7 +64,7 @@ namespace Ejercicios_de_Gamalier_4_Csharp
 
                     Console.WriteLine("");
                     promedio = (num1 + num2 + num3 + num4 + num5) / 5;
-                    Console.WriteLine($"El promedio de los 5 numeros son: {promedio}");
+                    Console.WriteLine("El promedio de los 5 numeros son: " + promedio);
                     Console.ReadLine();
                     Console.Clear();
                 }
