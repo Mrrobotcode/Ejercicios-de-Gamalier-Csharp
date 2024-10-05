@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier\Ejercicios_de_Gamalier_17_Csharp\bin\Debug\Ejercicios_de_Gamalier_17_Csharp.exe.config
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier\Ejercicios_de_Gamalier_17_Csharp\bin\Debug\Ejercicios_de_Gamalier_17_Csharp.exe
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier\Ejercicios_de_Gamalier_17_Csharp\bin\Debug\Ejercicios_de_Gamalier_17_Csharp.pdb
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier\Ejercicios_de_Gamalier_17_Csharp\obj\Debug\Ejercicios_de_Gamalier_17_Csharp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier\Ejercicios_de_Gamalier_17_Csharp\obj\Debug\Ejercicios_de_Gamalier_17_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier\Ejercicios_de_Gamalier_17_Csharp\obj\Debug\Ejercicios_de_Gamalier_17_Csharp.exe
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier\Ejercicios_de_Gamalier_17_Csharp\obj\Debug\Ejercicios_de_Gamalier_17_Csharp.pdb
