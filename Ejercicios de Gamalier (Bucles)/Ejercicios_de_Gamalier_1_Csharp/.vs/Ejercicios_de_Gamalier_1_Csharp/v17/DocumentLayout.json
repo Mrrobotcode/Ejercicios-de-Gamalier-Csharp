@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_1_Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E292DF0A-EA2C-4D1B-B5A3-F2FA088243BB}|Ejercicios_de_Gamalier_1_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (bucles)\\ejercicios_de_gamalier_1_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E292DF0A-EA2C-4D1B-B5A3-F2FA088243BB}|Ejercicios_de_Gamalier_1_Csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5228D2AD-FEAD-4DB7-A375-091D9837BA44}|..\\Ejercicios_de_Gamalier_9_Csharp\\Ejercicios_de_Gamalier_9_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (bucles)\\ejercicios_de_gamalier_9_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D4BD2C-F34A-482A-8D90-EE193E49EBD6}|..\\Ejercicios_de_Gamalier_2_Csharp\\Ejercicios_de_Gamalier_2_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (bucles)\\ejercicios_de_gamalier_2_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1591C456-3BBD-4CE6-AA6C-4905AC64AE91}|..\\Ejercicios_de_Gamalier_3_Csharp\\Ejercicios_de_Gamalier_3_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (bucles)\\ejercicios_de_gamalier_3_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F8D100-B99C-42DF-B042-B097B7AC73A1}|..\\Ejercicios_de_Gamalier_4_Csharp\\Ejercicios_de_Gamalier_4_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (bucles)\\ejercicios_de_gamalier_4_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD507F0-B9E5-4EF0-99E4-3CFE9F9FC9D6}|..\\Ejercicios_de_Gamalier_5_Csharp\\Ejercicios_de_Gamalier_5_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (bucles)\\ejercicios_de_gamalier_5_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869CC049-4711-4F53-8A93-2CDADA46211E}|..\\Ejercicios_de_Gamalier_6_Csharp\\Ejercicios_de_Gamalier_6_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (bucles)\\ejercicios_de_gamalier_6_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECD10FAD-319A-4744-91ED-4848EDED0927}|..\\Ejercicios_de_Gamalier_7_Csharp\\Ejercicios_de_Gamalier_7_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (bucles)\\ejercicios_de_gamalier_7_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F09AFB-B239-4192-AD11-67EF98F48F7B}|..\\Ejercicios_de_Gamalier_8_Csharp\\Ejercicios_de_Gamalier_8_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (bucles)\\ejercicios_de_gamalier_8_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_9_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_9_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_9_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_9_Csharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:51:07.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_8_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_8_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_8_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_8_Csharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T02:30:03.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_7_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_7_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_7_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_7_Csharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:09:30.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_6_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_6_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_6_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_6_Csharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:57:19.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_5_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_5_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_5_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_5_Csharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T23:27:26.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_4_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_4_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_4_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_4_Csharp\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:31:11.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_3_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_3_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_3_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_3_Csharp\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T14:13:21.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_2_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_2_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_2_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_2_Csharp\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwE8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:52:18.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_1_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Bucles)\\Ejercicios_de_Gamalier_1_Csharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAD8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T02:26:58.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
