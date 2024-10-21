@@ -34,7 +34,6 @@ namespace Ejercicios_de_Gamalier_1_Csharp
                         Console.WriteLine("");
                         esValido = true;
 
-                        
                         for (int i = 0; i < nCantidadNE; i++)
                         {
                             Console.Write($"Ingrese el numero {i + 1}: ");
@@ -50,6 +49,7 @@ namespace Ejercicios_de_Gamalier_1_Csharp
                             Console.WriteLine($"Los numeros enteros ingresados son: {num}");
                             esValido = true;
                         }
+
 
                         Console.WriteLine("");
                         numNegativos = numerosEnteros.Count(n => n < 0);
