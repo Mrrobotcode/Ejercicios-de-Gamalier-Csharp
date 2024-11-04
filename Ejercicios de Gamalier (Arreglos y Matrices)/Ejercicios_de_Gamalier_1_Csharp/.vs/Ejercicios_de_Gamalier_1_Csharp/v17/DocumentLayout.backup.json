@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Arreglos y Matrices)\\Ejercicios_de_Gamalier_1_Csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F2B5FB8-A1CE-46D8-9837-F212DB01F2BB}|..\\Ejercicios_de_Gamalier_3_Csharp\\Ejercicios_de_Gamalier_3_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (arreglos y matrices)\\ejercicios_de_gamalier_3_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C217596A-6B8F-4105-9FD0-4B862A17054A}|..\\Ejercicios_de_Gamalier_2_Csharp\\Ejercicios_de_Gamalier_2_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (arreglos y matrices)\\ejercicios_de_gamalier_2_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{794D3408-F5E5-43F5-A384-765919F59FE7}|..\\Ejercicios_de_Gamalier_4_Csharp\\Ejercicios_de_Gamalier_4_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (arreglos y matrices)\\ejercicios_de_gamalier_4_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C969598-8CB2-4BD0-8DB9-7F47CE01AE36}|Ejercicios_de_Gamalier_1_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (arreglos y matrices)\\ejercicios_de_gamalier_1_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C969598-8CB2-4BD0-8DB9-7F47CE01AE36}|Ejercicios_de_Gamalier_1_Csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Arreglos y Matrices)\\Ejercicios_de_Gamalier_1_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Arreglos y Matrices)\\Ejercicios_de_Gamalier_1_Csharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T14:08:35.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Arreglos y Matrices)\\Ejercicios_de_Gamalier_2_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_2_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Arreglos y Matrices)\\Ejercicios_de_Gamalier_2_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_2_Csharp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:09:46.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Arreglos y Matrices)\\Ejercicios_de_Gamalier_3_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_3_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Arreglos y Matrices)\\Ejercicios_de_Gamalier_3_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_3_Csharp\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA6wCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:51:22.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Arreglos y Matrices)\\Ejercicios_de_Gamalier_4_Csharp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ejercicios_de_Gamalier_4_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Arreglos y Matrices)\\Ejercicios_de_Gamalier_4_Csharp\\Program.cs",
+              "RelativeToolTip": "..\\Ejercicios_de_Gamalier_4_Csharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T15:52:54.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
