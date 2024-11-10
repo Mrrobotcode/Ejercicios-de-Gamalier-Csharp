@@ -88,7 +88,7 @@ namespace Ejercicios_de_Gamalier_6_Csharp
                         case "2":
                             viaje.costoViaje = 400;
                             viaje.tiempoViaje = 2.40;
-                            viaje.distanciaViaje = 209.8;000000000000000
+                            viaje.distanciaViaje = 209.8;
                             Console.WriteLine("                Boleto                   ");
                             Console.WriteLine("-----------------------------------------------------------------------------");
                             Console.WriteLine("\n Destino: Hoteles y resorts en Punta Cana y Bavaro");

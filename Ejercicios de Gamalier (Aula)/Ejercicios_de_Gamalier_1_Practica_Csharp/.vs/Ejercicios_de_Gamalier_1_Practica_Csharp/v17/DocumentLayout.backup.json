@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Perla y Gamalier (POO)\\Ejercicios_de_Gamalier_6_Csharp\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Aula)\\Ejercicios_de_Gamalier_1_Practica_Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9D16CF56-3BD5-4C3C-AE0B-0DE9364359ED}|Ejercicios_de_Gamalier_6_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de perla y gamalier (poo)\\ejercicios_de_gamalier_6_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D16CF56-3BD5-4C3C-AE0B-0DE9364359ED}|Ejercicios_de_Gamalier_6_Csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{30F1D34D-B1DE-43E0-B69B-6C5851AE5C9D}|Ejercicios_de_Gamalier_1_Practica_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (aula)\\ejercicios_de_gamalier_1_practica_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F1D34D-B1DE-43E0-B69B-6C5851AE5C9D}|Ejercicios_de_Gamalier_1_Practica_Csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Perla y Gamalier (POO)\\Ejercicios_de_Gamalier_6_Csharp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Aula)\\Ejercicios_de_Gamalier_1_Practica_Csharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Perla y Gamalier (POO)\\Ejercicios_de_Gamalier_6_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Aula)\\Ejercicios_de_Gamalier_1_Practica_Csharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAuwFoAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAFAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-04T13:47:17.964Z",
+              "WhenOpened": "2024-11-06T13:50:20.579Z",
               "EditorCaption": ""
             }
           ]
