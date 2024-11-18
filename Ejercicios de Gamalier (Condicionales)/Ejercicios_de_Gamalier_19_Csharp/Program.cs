@@ -14,7 +14,8 @@ namespace Ejercicios_de_Gamalier_19_Csharp
     internal class Program
     {
         static bool esValido;
-        static double sueldo_Empleado, hijos_Empleado;
+        static int incentivo, hijos_Empleado;
+        static double sueldo_Empleado, sueldoTotal;
         static void Main(string[] args)
         {
             do
@@ -32,142 +33,21 @@ namespace Ejercicios_de_Gamalier_19_Csharp
                         esValido = true;
 
                         Console.WriteLine("Introduce la cantidad de hijos que tengas: ");
-                        hijos_Empleado = Convert.ToDouble(Console.ReadLine());
+                        hijos_Empleado = Convert.ToInt32(Console.ReadLine());
                         Console.WriteLine("");
                         esValido = true;
 
-                        switch (hijos_Empleado)
+                        if (hijos_Empleado > 0)
                         {
-                            case 1:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 500$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 2:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 1000$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 3:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 1500$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 4:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 2000$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 5:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 2500$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 6:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 3000$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 7:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 3500$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 8:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 4000$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 9:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 4500$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 10:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 5000$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 11:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 5500$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 12:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 6000$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 13:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 6500$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 14:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 7000$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            case 15:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("Tu incetivo es de 7500$");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
-
-                            default:
-                                Console.WriteLine("Tu suedo neto es de: " + sueldo_Empleado);
-                                Console.WriteLine("La cantidad de numeros de hijos que tienes es de: " + hijos_Empleado);
-                                Console.WriteLine("No tienes incetivo");
-                                Console.ReadLine();
-                                esValido = true;
-                                break;
+                            incentivo = hijos_Empleado * 500;
+                            sueldoTotal = incentivo + sueldo_Empleado;
+                            Console.Write($"El sueldo total es: {sueldoTotal}$");
+                            Console.ReadLine();
+                        } else
+                        {
+                            Console.Write("No aplicas al incentivo");
+                            Console.ReadLine();
                         }
-
-
                     } catch (FormatException)
                     {
                         Console.WriteLine("Introduce los valores correctos");

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_19_Csharp\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Condicionales)\\Ejercicios_de_Gamalier_19_Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CECD4B9E-38C6-4737-95D9-7DD09AF123D1}|Ejercicios_de_Gamalier_19_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier\\ejercicios_de_gamalier_19_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CECD4B9E-38C6-4737-95D9-7DD09AF123D1}|Ejercicios_de_Gamalier_19_Csharp.csproj|c:\\users\\hp\\desktop\\practicas de c#\\ejercicios\\ejercicios de gamalier (condicionales)\\ejercicios_de_gamalier_19_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CECD4B9E-38C6-4737-95D9-7DD09AF123D1}|Ejercicios_de_Gamalier_19_Csharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_19_Csharp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Condicionales)\\Ejercicios_de_Gamalier_19_Csharp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier\\Ejercicios_de_Gamalier_19_Csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Practicas de C#\\Ejercicios\\Ejercicios de Gamalier (Condicionales)\\Ejercicios_de_Gamalier_19_Csharp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACsAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T22:54:15.605Z",
               "EditorCaption": ""

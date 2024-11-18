@@ -5,3 +5,10 @@ C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier\Ejercicios
 C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier\Ejercicios_de_Gamalier_19_Csharp\obj\Debug\Ejercicios_de_Gamalier_19_Csharp.csproj.CoreCompileInputs.cache
 C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier\Ejercicios_de_Gamalier_19_Csharp\obj\Debug\Ejercicios_de_Gamalier_19_Csharp.exe
 C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier\Ejercicios_de_Gamalier_19_Csharp\obj\Debug\Ejercicios_de_Gamalier_19_Csharp.pdb
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier (Condicionales)\Ejercicios_de_Gamalier_19_Csharp\bin\Debug\Ejercicios_de_Gamalier_19_Csharp.exe.config
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier (Condicionales)\Ejercicios_de_Gamalier_19_Csharp\bin\Debug\Ejercicios_de_Gamalier_19_Csharp.exe
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier (Condicionales)\Ejercicios_de_Gamalier_19_Csharp\bin\Debug\Ejercicios_de_Gamalier_19_Csharp.pdb
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier (Condicionales)\Ejercicios_de_Gamalier_19_Csharp\obj\Debug\Ejercicios_de_Gamalier_19_Csharp.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier (Condicionales)\Ejercicios_de_Gamalier_19_Csharp\obj\Debug\Ejercicios_de_Gamalier_19_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier (Condicionales)\Ejercicios_de_Gamalier_19_Csharp\obj\Debug\Ejercicios_de_Gamalier_19_Csharp.exe
+C:\Users\HP\Desktop\Practicas de C#\Ejercicios\Ejercicios de Gamalier (Condicionales)\Ejercicios_de_Gamalier_19_Csharp\obj\Debug\Ejercicios_de_Gamalier_19_Csharp.pdb
